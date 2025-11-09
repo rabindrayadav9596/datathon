@@ -204,7 +204,7 @@ At the end of the notebook:
 > “Using the above requirements, create a bug-free, presentation-ready Jupyter Notebook analyzing Meridian City Hospital’s East ER efficiency. Include complete data cleaning, EDA, machine learning models, admission prediction, scenario-based simulations, inline & saved visualizations, and an executive summary.”
 
 
-for sample you can check /Users/rabindrayadav/Downloads/ER_Analysis.pdf. for datathon project instruction  - /Users/rabindrayadav/Downloads/Datathon/datathon.pdf
+for sample you can check ER_Analysis.pdf. for datathon project instruction  - datathon.pdf
 
 
 Create a new ipynb file
