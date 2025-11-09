@@ -1,0 +1,10 @@
+Metric,Value
+Total Visits Analyzed,"15,000"
+Average Daily Volume,167
+Average Time to Doctor (min),64.9
+% Seen Within 15 Min,0.0%
+Average Total ER Time (hours),2.87
+Average Patient Satisfaction,3.57/5.0
+Worst Performing Shift,Evening
+ML Model Accuracy (Wait Time),±13.3 min
+ML Model Accuracy (Satisfaction),49.2%

@@ -1,0 +1,4 @@
+Shift,Visit ID,Time_to_Doctor,Total_ER_Time,Seen_Within_15min,Patient Satisfaction
+Day,9792,64.6,171.69,0.0,3.58
+Evening,2986,67.99,174.78,0.0,3.52
+Night,2222,61.97,170.6,0.0,3.6
