@@ -1,0 +1,5 @@
+Name,Description,Expected Datatype,,
+Patient ID,Unique identifier assigned to each patient. The prefix 'MC180325' represents the hospital registration system followed by a unique number for each individual.,String,,
+Age,Age of the patient at the time of the recorded visit.,Integer,,
+Gender,"Patient gender as entered during registration. May include casing variations (e.g., Male, male, FEMALE).",String,,
+Insurance,"Type of insurance coverage or payer source associated with the patient (e.g., Private, Medicare, Medicaid, Uninsured). Includes occasional misspellings to simulate real-world data entry noise.",String,,

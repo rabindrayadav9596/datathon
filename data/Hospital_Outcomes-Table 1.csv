@@ -1,0 +1,4 @@
+Name,Description,Expected Datatype,,
+Visit ID,Links outcome data to corresponding visit records.,String,,
+Disposition,"Describes the patient’s outcome at the end of their ER visit — options include Discharged, Admitted, or Transferred. Includes occasional spelling or case variations.",String,,
+Patient Satisfaction,Integer scale from 1 (low) to 5 (high) representing the patient’s overall experience. ,Integer,,

@@ -1,0 +1,7 @@
+Name,Description,Expected Datatype,,
+Hospital ID,"Unique identifier for each facility location (e.g., MC_ER001_East, MC_ER002_West).",String,,
+Hospital Name,Official name of the ER facility.,String,,
+Facility Size (Beds),Total bed count within the ER department.,Integer,,
+ICU Beds,Number of beds reserved for critical care patients.,Integer,,
+Fast Track Beds,Count of low-acuity Fast-Track bays available for minor (level 4) cases. Capacity may differ between East and West hospitals.,Integer,,
+Regular Beds,Count of standard ER treatment beds.,Integer,,

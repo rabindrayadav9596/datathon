@@ -1,0 +1,8 @@
+Name,Description,Expected Datatype,,
+Date,Date of the staffing record (YYYY-MM-DD).,Date,,
+Shift,Categorical indicator for which shift the staffing data applies to.,String,,
+Nurses On Duty,Count of nurses scheduled and present for the given date and shift.,Integer,,
+Doctors On Duty,Count of doctors or attending physicians on shift.,Integer,,
+Specialists On Call,"Number of specialty providers available on-call during the shift (e.g., cardiologists, surgeons).",Integer,,
+Total Beds,Total number of ER beds available during the shift. May fluctuate across shifts to reflect operational adjustments.,Integer,,
+Fast Track Beds,Number of beds allocated to the Fast-Track area used for low-acuity (Level 4) cases. Reduced during evening shifts to simulate operational cost-saving decisions.,Integer,,
